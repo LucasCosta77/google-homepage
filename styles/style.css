@@ -1,0 +1,45 @@
+#navbar{
+    display: flex;
+    flex-direction: row;
+  }
+#footer{
+    padding-top: 180px;
+    display: flex;
+    flex-direction: row;
+  }
+  #luck{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  #search{
+    display: flex;
+    justify-content: center;
+  }
+  #box{
+
+      width: 600px;
+      height: 40px;
+  }
+  #image{
+    display: flex;
+    justify-content: center;
+    padding-top: 180px;
+  }
+  #image
+  #luck{
+    display: flex;
+    justify-content: center;
+  }
+#sign{
+    background-color: rgb(66,133,244);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+   }
+   p{
+    Font-family: sans-serif;
+    font-size: 10px;
+   }
